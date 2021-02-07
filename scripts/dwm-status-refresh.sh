@@ -1,3 +1,3 @@
 #!/bin/bash
 
-xsetroot -name "$(date | cut -d : -f 1-2)"
+xsetroot -name "$(date | cut -d : -f 1-2)     |  |  |"
